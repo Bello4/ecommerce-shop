@@ -2,7 +2,9 @@
 
 > Complete E-commerce site built with Node.js, React, Redux, Express, MongoDB
 
-View about this project on: [MERN Stack Full Ecommerce Site - Using React, Redux, Node.j](https://bookmeservice.herokuapp.com)
+View about project on:(https://shopit-ecommerce-shop.herokuapp.com/)
+login admin portal using: deo@gmail.com
+password: test1234
 
 ### Env Variables
 
