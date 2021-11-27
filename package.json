@@ -5,7 +5,6 @@
   "main": "app.js",
   "scripts": {
     "start": "server.js",
-    "prod": "NODE_ENV=production nodemon server.js",
     "heroku-postbuild" : "NPM_CONFIG_PRODUCTION=false && npm install --prefix frontend && npm run build --prefix frontend"
   },
   "author": "bello oladepo",
@@ -40,5 +39,9 @@
     "stripe": "^8.170.0",
     "validator": "^13.6.0",
     "xss-clean": "^0.1.1"
+  },
+  "engines": {
+    "node": "0.10.x",
+    "npm": "2.1.x"
   }
 }
